@@ -609,7 +609,7 @@
 0.0.0.0 lmyiwaakn.com
 0.0.0.0 analyticsq1.com
 0.0.0.0 fogbigcourt.com
-0.0.0.0 impactserving.com,domain=~xfantazy.com
+0.0.0.0 impactserving.com,
 0.0.0.0 crentgate.com
 0.0.0.0 kts.visitstats.com
 0.0.0.0 inservinea.com
