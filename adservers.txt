@@ -609,7 +609,7 @@
 0.0.0.0 lmyiwaakn.com
 0.0.0.0 analyticsq1.com
 0.0.0.0 fogbigcourt.com
-0.0.0.0 impactserving.com,
+0.0.0.0 impactserving.com
 0.0.0.0 crentgate.com
 0.0.0.0 kts.visitstats.com
 0.0.0.0 inservinea.com
@@ -1837,9 +1837,9 @@
 0.0.0.0 unknownads.com
 0.0.0.0 adblox.net
 0.0.0.0 uniquecaptcha.com
-0.0.0.0 marial.pro,important
+0.0.0.0 marial.proimportant
 0.0.0.0 analyticsq.com
-0.0.0.0 analyticsq.com,important
+0.0.0.0 analyticsq.comimportant
 0.0.0.0 qenprsuoashu.com
 0.0.0.0 nlyqwlyykvjl.com
 0.0.0.0 emented.pro
@@ -2693,7 +2693,7 @@ www.llllllllllll.net
 0.0.0.0 upasiansex.com
 0.0.0.0 hypoot.com
 0.0.0.0 verkolasti.pw
-0.0.0.0 terepran.com,important
+0.0.0.0 terepran.comimportant
 0.0.0.0 rotabetaffiliates.com
 0.0.0.0 u1trkqf.com
 0.0.0.0 aanqylta.com
@@ -2892,7 +2892,7 @@ www.llllllllllll.net
 0.0.0.0 78.140.130.91
 0.0.0.0 863c4c0c521.se
 0.0.0.0 abckj123.com
-0.0.0.0 actiondesk.com,third-party
+0.0.0.0 actiondesk.comthird-party
 0.0.0.0 ad2goal.com
 0.0.0.0 adamoads.com
 0.0.0.0 adbetnet.advertserve.com
@@ -2919,7 +2919,7 @@ www.llllllllllll.net
 0.0.0.0 adspeed.net
 0.0.0.0 adspynet.com
 0.0.0.0 adsrvgateway.com
-0.0.0.0 adsrvmedia.adk2.co$important,third-party
+0.0.0.0 adsrvmedia.adk2.co$importantthird-party
 0.0.0.0 adsvcs.com
 0.0.0.0 adtech.com
 0.0.0.0 adternal.com
@@ -2943,7 +2943,7 @@ www.llllllllllll.net
 0.0.0.0 alexrid.com
 0.0.0.0 alipromo.com
 0.0.0.0 allbestnews.net
-0.0.0.0 am15.net$image,media,script,third-party
+0.0.0.0 am15.net$imagemediascriptthird-party
 0.0.0.0 am15.net
 0.0.0.0 api.reon.club
 0.0.0.0 appintop.com
@@ -2998,17 +2998,17 @@ www.llllllllllll.net
 0.0.0.0 checkchick4u.org
 0.0.0.0 ci3ixee8.com
 0.0.0.0 clickadu.com
-0.0.0.0 clickforward.net,third-party
+0.0.0.0 clickforward.netthird-party
 0.0.0.0 clkoffers.com
 0.0.0.0 cloudsdns.net
 0.0.0.0 cntrafficpro.com
-0.0.0.0 code.poptm.com,important,script,third-party
+0.0.0.0 code.poptm.comimportantscriptthird-party
 0.0.0.0 codeonclick.com
 0.0.0.0 contactsin.mobi
 0.0.0.0 contextual.media.net
 0.0.0.0 corrosif.science
 0.0.0.0 costaction.com
-0.0.0.0 cpmstar.com$object,third-party
+0.0.0.0 cpmstar.com$objectthird-party
 0.0.0.0 cpmterra.com
 0.0.0.0 ctmconnect.com
 0.0.0.0 dai0eej.bid
@@ -3048,7 +3048,7 @@ www.llllllllllll.net
 0.0.0.0 fdgeen.com
 0.0.0.0 ficusoid.xyz
 0.0.0.0 filadmir.site
-0.0.0.0 firstfirst.net,third-party
+0.0.0.0 firstfirst.netthird-party
 0.0.0.0 flashteaser.com
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 fsoft4down.com
@@ -3099,7 +3099,7 @@ www.llllllllllll.net
 0.0.0.0 lepubs.com
 0.0.0.0 lifestyle24h.com
 0.0.0.0 liflandaffiliates.com
-0.0.0.0 linkbucks.com,domain=~dyo.gs|~eafyfsuh.net
+0.0.0.0 linkbucks.comdomain=~dyo.gs|~eafyfsuh.net
 0.0.0.0 liversely.com
 0.0.0.0 liversely.net
 0.0.0.0 llgerege.com
@@ -3218,7 +3218,7 @@ www.llllllllllll.net
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.globaltraffico.com
 0.0.0.0 syndication.jsadapi.com
-0.0.0.0 syngrestic.com,third-party
+0.0.0.0 syngrestic.comthird-party
 0.0.0.0 synhandler.net
 0.0.0.0 t.booksuper.info
 0.0.0.0 advertiseserve.com
@@ -3232,7 +3232,7 @@ www.llllllllllll.net
 0.0.0.0 tr553.com
 0.0.0.0 track.bcvc.mobi
 0.0.0.0 tracking.cirrusinsight.com
-0.0.0.0 tradeadexchange.com,third-party
+0.0.0.0 tradeadexchange.comthird-party
 0.0.0.0 trafex.net
 0.0.0.0 traffichaus.com
 0.0.0.0 trafficholder.com
