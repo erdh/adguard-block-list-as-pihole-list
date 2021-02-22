@@ -1,10 +1,4 @@
-!
-! Section contains list of advertising networks
-!
-! The rules with hints are at the end of file
-!
-!! https://a.bestcontentitem.top/warp/*?r=
-!
+# This was made in 22/02/2020 at 21.52 by Erdem Harputlugil
 0.0.0.0 jypugepha.pro
 0.0.0.0 bounceme.net
 0.0.0.0 aspirinelitistunderstood.com
