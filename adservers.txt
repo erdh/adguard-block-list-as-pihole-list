@@ -2919,7 +2919,7 @@ www.llllllllllll.net
 0.0.0.0 adspeed.net
 0.0.0.0 adspynet.com
 0.0.0.0 adsrvgateway.com
-0.0.0.0 adsrvmedia.adk2.co$third-party
+0.0.0.0 adsrvmedia.adk2.co
 0.0.0.0 adsvcs.com
 0.0.0.0 adtech.com
 0.0.0.0 adternal.com
