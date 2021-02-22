@@ -2943,7 +2943,7 @@ www.llllllllllll.net
 0.0.0.0 alexrid.com
 0.0.0.0 alipromo.com
 0.0.0.0 allbestnews.net
-0.0.0.0 am15.net$imagemediascriptthird-party
+0.0.0.0 am15.net
 0.0.0.0 am15.net
 0.0.0.0 api.reon.club
 0.0.0.0 appintop.com
