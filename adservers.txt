@@ -3104,7 +3104,7 @@ www.llllllllllll.net
 0.0.0.0 liversely.net
 0.0.0.0 llgerege.com
 0.0.0.0 llladiez.org
-0.0.0.0 lockerdome.com$domain=~lockerdome.com
+0.0.0.0 lockerdome.com
 0.0.0.0 lookfornews.net
 0.0.0.0 madyna.ru
 0.0.0.0 magicplayer-api.torrentstream.org
