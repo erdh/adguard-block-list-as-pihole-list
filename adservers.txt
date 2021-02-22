@@ -2731,7 +2731,7 @@ www.llllllllllll.net
 0.0.0.0 codeadnetwork.com
 0.0.0.0 truefilen32.com
 0.0.0.0 adclickxpress.com
-0.0.0.0 jsc.mgid.com$domain=~mgid.com
+0.0.0.0 jsc.mgid.com
 0.0.0.0 pussl10.com
 0.0.0.0 y5wflt0xibmoufuvsayg1efy80yq0ystkjncf76cqm.com
 0.0.0.0 hbchwmrqb.bid
