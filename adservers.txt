@@ -420,7 +420,7 @@
 0.0.0.0 purrbodygyp.com
 0.0.0.0 delightspiritedtroop.com
 0.0.0.0 netnesspb.com
-0.0.0.0 f853150605ccb.com$document
+0.0.0.0 f853150605ccb.com
 0.0.0.0 optnumbhigh.com
 0.0.0.0 engine.partylemons.com
 0.0.0.0 danyhazo.xyz
@@ -764,7 +764,7 @@
 0.0.0.0 classentedol.club
 0.0.0.0 nibzitgas.com
 0.0.0.0 oufauthy.net
-0.0.0.0 rotumal.com$document
+0.0.0.0 rotumal.com
 0.0.0.0 0ra5eylno4zs.com
 0.0.0.0 simrubwan.com
 0.0.0.0 eyebinvex.com
@@ -867,7 +867,7 @@
 0.0.0.0 spreadcreative.club
 0.0.0.0 eonwayaha.com
 0.0.0.0 oupe71eiun.com
-0.0.0.0 prpops.com$document
+0.0.0.0 prpops.com
 0.0.0.0 xunkhuczqnuf.com
 0.0.0.0 tracking.scenepass.com
 0.0.0.0 asterilivestream.com
@@ -1228,7 +1228,7 @@
 0.0.0.0 toonikab.com
 0.0.0.0 itteholm.site
 0.0.0.0 amarceusan.com
-0.0.0.0 go.ero-advertising.com$document
+0.0.0.0 go.ero-advertising.com
 0.0.0.0 bebasads.com
 0.0.0.0 raiphupi.com
 0.0.0.0 volyze.com
