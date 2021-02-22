@@ -3203,7 +3203,7 @@ www.llllllllllll.net
 0.0.0.0 sextadate.net
 0.0.0.0 sftapi.com
 0.0.0.0 shorlakmedia.com
-0.0.0.0 simudotheh.com$~third-party
+0.0.0.0 simudotheh.com
 0.0.0.0 soadvr.com
 0.0.0.0 softexcellence.com
 0.0.0.0 sourcengo.com
