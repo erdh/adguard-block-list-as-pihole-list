@@ -1837,9 +1837,9 @@
 0.0.0.0 unknownads.com
 0.0.0.0 adblox.net
 0.0.0.0 uniquecaptcha.com
-0.0.0.0 marial.proimportant
+0.0.0.0 marial.pro
 0.0.0.0 analyticsq.com
-0.0.0.0 analyticsq.comimportant
+0.0.0.0 analyticsq.com
 0.0.0.0 qenprsuoashu.com
 0.0.0.0 nlyqwlyykvjl.com
 0.0.0.0 emented.pro
@@ -2693,7 +2693,7 @@ www.llllllllllll.net
 0.0.0.0 upasiansex.com
 0.0.0.0 hypoot.com
 0.0.0.0 verkolasti.pw
-0.0.0.0 terepran.comimportant
+0.0.0.0 terepran.com
 0.0.0.0 rotabetaffiliates.com
 0.0.0.0 u1trkqf.com
 0.0.0.0 aanqylta.com
@@ -2919,7 +2919,7 @@ www.llllllllllll.net
 0.0.0.0 adspeed.net
 0.0.0.0 adspynet.com
 0.0.0.0 adsrvgateway.com
-0.0.0.0 adsrvmedia.adk2.co$importantthird-party
+0.0.0.0 adsrvmedia.adk2.co$third-party
 0.0.0.0 adsvcs.com
 0.0.0.0 adtech.com
 0.0.0.0 adternal.com
@@ -3002,7 +3002,7 @@ www.llllllllllll.net
 0.0.0.0 clkoffers.com
 0.0.0.0 cloudsdns.net
 0.0.0.0 cntrafficpro.com
-0.0.0.0 code.poptm.comimportantscriptthird-party
+0.0.0.0 code.poptm.comscriptthird-party
 0.0.0.0 codeonclick.com
 0.0.0.0 contactsin.mobi
 0.0.0.0 contextual.media.net
