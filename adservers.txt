@@ -3008,7 +3008,7 @@ www.llllllllllll.net
 0.0.0.0 contextual.media.net
 0.0.0.0 corrosif.science
 0.0.0.0 costaction.com
-0.0.0.0 cpmstar.com$objectthird-party
+0.0.0.0 cpmstar.com
 0.0.0.0 cpmterra.com
 0.0.0.0 ctmconnect.com
 0.0.0.0 dai0eej.bid
