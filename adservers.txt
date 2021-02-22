@@ -2203,7 +2203,7 @@ www.llllllllllll.net
 0.0.0.0 admp.io
 0.0.0.0 cklad.xyz
 0.0.0.0 richmediaads.com
-0.0.0.0 teleriumads-*.netdna-ssl.com
+0.0.0.0 teleriumads-.netdna-ssl.com
 0.0.0.0 afgr3.com
 0.0.0.0 anothere.club
 0.0.0.0 reportions.club
@@ -2821,7 +2821,7 @@ www.llllllllllll.net
 0.0.0.0 paclitor.com
 0.0.0.0 ssl4me.cf
 0.0.0.0 fastpopunder.com
-0.0.0.0 putrr*.com
+0.0.0.0 putrr.com
 0.0.0.0 78.140.130.88
 0.0.0.0 happer.info
 0.0.0.0 automoc.net
@@ -2975,7 +2975,7 @@ www.llllllllllll.net
 0.0.0.0 bitmedianetwork.com
 0.0.0.0 black6adv.com
 0.0.0.0 blkget8.com
-0.0.0.0 block.s*block.com
+0.0.0.0 block.sblock.com
 0.0.0.0 boomads.com
 0.0.0.0 borotango.com
 0.0.0.0 brand.ad
@@ -3119,7 +3119,7 @@ www.llllllllllll.net
 0.0.0.0 mediastinct.com
 0.0.0.0 mediaver.com
 0.0.0.0 metodikadeneg.info
-0.0.0.0 mf*.advantage.as
+0.0.0.0 mf.advantage.as
 0.0.0.0 mgid.com
 0.0.0.0 mintake.com
 0.0.0.0 moguldom.com
@@ -3255,8 +3255,8 @@ www.llllllllllll.net
 0.0.0.0 wsp.adskeeper.co.uk
 0.0.0.0 wsp.mgid.com
 0.0.0.0 wsp.steepto.com
-0.0.0.0 www.fuze-hill*.xyz
-0.0.0.0 www.fuze-sea*.xyz
+0.0.0.0 www.fuze-hill.xyz
+0.0.0.0 www.fuze-sea.xyz
 0.0.0.0 xpostx.com
 0.0.0.0 yesadvertising.com
 0.0.0.0 ylx-4.com
