@@ -1353,7 +1353,7 @@
 0.0.0.0 mysmokingmistress.com
 0.0.0.0 beserte.pro
 0.0.0.0 voastauz.net
-0.0.0.0 tibacta.com$redirect=nooptext,important
+0.0.0.0 tibacta.com
 0.0.0.0 ashaidbit.club
 0.0.0.0 buysellads.com
 0.0.0.0 kongssew.com
