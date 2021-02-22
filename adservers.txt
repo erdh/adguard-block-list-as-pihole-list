@@ -526,7 +526,7 @@
 0.0.0.0 vupyjyyu.xyz
 0.0.0.0 lhljbgevp.com
 0.0.0.0 ads.123net.jp
-0.0.0.0 ads.123net.jp$redirect=nooptext
+0.0.0.0 ads.123net.jp
 0.0.0.0 breedtagask.com
 0.0.0.0 gsecurecontent.com
 0.0.0.0 breadstringscrashed.com
@@ -1837,9 +1837,9 @@
 0.0.0.0 unknownads.com
 0.0.0.0 adblox.net
 0.0.0.0 uniquecaptcha.com
-0.0.0.0 marial.pro$redirect=nooptext,important
+0.0.0.0 marial.pro,important
 0.0.0.0 analyticsq.com
-0.0.0.0 analyticsq.com$redirect=nooptext,important
+0.0.0.0 analyticsq.com,important
 0.0.0.0 qenprsuoashu.com
 0.0.0.0 nlyqwlyykvjl.com
 0.0.0.0 emented.pro
@@ -2693,17 +2693,17 @@ www.llllllllllll.net
 0.0.0.0 upasiansex.com
 0.0.0.0 hypoot.com
 0.0.0.0 verkolasti.pw
-0.0.0.0 terepran.com$redirect=nooptext,important
+0.0.0.0 terepran.com,important
 0.0.0.0 rotabetaffiliates.com
-0.0.0.0 u1trkqf.com$redirect=nooptext
-0.0.0.0 aanqylta.com$redirect=nooptext
-0.0.0.0 35.188.14.213$redirect=nooptext
+0.0.0.0 u1trkqf.com
+0.0.0.0 aanqylta.com
+0.0.0.0 35.188.14.213
 0.0.0.0 diamongs.com
 0.0.0.0 adpressi.com
 0.0.0.0 42eed1a0d9c129.com
 0.0.0.0 tracklab.club
 0.0.0.0 wbpal.com
-0.0.0.0 ad.ettoday.net$redirect=nooptext
+0.0.0.0 ad.ettoday.net
 0.0.0.0 ad1.udn.com
 0.0.0.0 ad2.udn.com
 0.0.0.0 ad3.udn.com
@@ -2762,7 +2762,7 @@ www.llllllllllll.net
 0.0.0.0 sgqmhpqrstwzwd.com
 0.0.0.0 tummiarunzpf.com
 0.0.0.0 play.entretenimientolz.com
-0.0.0.0 stencef.com$redirect=nooptext
+0.0.0.0 stencef.com
 0.0.0.0 performanceadexchange.com
 0.0.0.0 onclickpulse.com
 0.0.0.0 jqueryserve.com
@@ -2771,7 +2771,7 @@ www.llllllllllll.net
 0.0.0.0 anothing.info
 0.0.0.0 g22rbb7.com
 0.0.0.0 mediad2.jp
-0.0.0.0 mobileofferplace.site$redirect=nooptext
+0.0.0.0 mobileofferplace.site
 0.0.0.0 dlyads.com
 0.0.0.0 ab.advertiserurl.com
 0.0.0.0 my.top100.photo
@@ -2818,7 +2818,7 @@ www.llllllllllll.net
 0.0.0.0 ssl4anyone4.com
 0.0.0.0 ssl4anyone5.com
 0.0.0.0 cdn.plopx.com
-0.0.0.0 paclitor.com$redirect=nooptext
+0.0.0.0 paclitor.com
 0.0.0.0 ssl4me.cf
 0.0.0.0 fastpopunder.com
 0.0.0.0 putrr*.com
@@ -2902,7 +2902,7 @@ www.llllllllllll.net
 0.0.0.0 adk2.net
 0.0.0.0 admax.quisma.com
 0.0.0.0 admost.com
-0.0.0.0 adnxs.com$redirect=nooptext
+0.0.0.0 adnxs.com
 0.0.0.0 adosia.com
 0.0.0.0 adpeepshosted.com
 0.0.0.0 adplus.co.id
@@ -2972,7 +2972,7 @@ www.llllllllllll.net
 0.0.0.0 bestwebdeal.net
 0.0.0.0 bgcsojmtgdrv.com
 0.0.0.0 bitmedia.io
-0.0.0.0 bitmedianetwork.com$redirect=nooptext
+0.0.0.0 bitmedianetwork.com
 0.0.0.0 black6adv.com
 0.0.0.0 blkget8.com
 0.0.0.0 block.s*block.com
@@ -3002,7 +3002,7 @@ www.llllllllllll.net
 0.0.0.0 clkoffers.com
 0.0.0.0 cloudsdns.net$script,third-party
 0.0.0.0 cntrafficpro.com
-0.0.0.0 code.poptm.com$redirect=nooptext,important,script,third-party
+0.0.0.0 code.poptm.com,important,script,third-party
 0.0.0.0 codeonclick.com
 0.0.0.0 contactsin.mobi
 0.0.0.0 contextual.media.net
