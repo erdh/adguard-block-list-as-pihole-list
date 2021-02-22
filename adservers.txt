@@ -534,7 +534,7 @@
 0.0.0.0 graniteacquitcharacteristic.com
 0.0.0.0 bestcontentoperation.top
 0.0.0.0 balebunsob.com
-0.0.0.0 zergnet.com$script,third-party
+0.0.0.0 zergnet.com
 0.0.0.0 fggwavfjucnyw.com
 0.0.0.0 recentrecentinsectsquantity.com
 0.0.0.0 vaneplusnod.com
@@ -3000,7 +3000,7 @@ www.llllllllllll.net
 0.0.0.0 clickadu.com
 0.0.0.0 clickforward.net,third-party
 0.0.0.0 clkoffers.com
-0.0.0.0 cloudsdns.net$script,third-party
+0.0.0.0 cloudsdns.net
 0.0.0.0 cntrafficpro.com
 0.0.0.0 code.poptm.com,important,script,third-party
 0.0.0.0 codeonclick.com
@@ -3242,7 +3242,7 @@ www.llllllllllll.net
 0.0.0.0 trklnks.com
 0.0.0.0 tubecontext.com
 0.0.0.0 ujieva.com
-0.0.0.0 v1n7c.com$script,third-party
+0.0.0.0 v1n7c.com
 0.0.0.0 vartoken.com
 0.0.0.0 videogenetic.com
 0.0.0.0 voluumtrk2.com
