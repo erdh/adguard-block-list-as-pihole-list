@@ -6,3 +6,6 @@ Please note, I only check if there is a new rule on AdGuard's filtering domain (
 `PiholeAdServers.txt`
 
 The filter I am using is a default filter for [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) and for the public [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) servers.
+
+# Important Note:
+`test.txt` contains a full list of domains by AdGuard's Database. Use it at your own risk
