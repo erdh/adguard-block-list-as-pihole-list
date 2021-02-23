@@ -1,4 +1,4 @@
-# AdGuard filter as for PiHole
+# AdGuard's filter for PiHole
 
 In this is a project to make AdGuard and AdGuard Home's filtering rule useable with PiHole
 
