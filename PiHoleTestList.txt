@@ -2783,7 +2783,7 @@ www.llllllllllll.net
 0.0.0.0 adspeed.net
 0.0.0.0 adspynet.com
 0.0.0.0 adsrvgateway.com
-0.0.0.0 adsrvmedia.adk2.co$important
+0.0.0.0 adsrvmedia.adk2.co
 0.0.0.0 adsvcs.com
 0.0.0.0 adtech.com
 0.0.0.0 adternal.com
@@ -18869,9 +18869,9 @@ vkcdnservice.appspot.com
 #+ NOT_OPTIMIZED
 0.0.0.0 hqsjc.com
 #+ PLATFORM(ios)
-0.0.0.0 deloton.com$important
+0.0.0.0 deloton.com
 #+ PLATFORM(ios)
-0.0.0.0 oclasrv.com$important
+0.0.0.0 oclasrv.com
 #----- For HTTPS websites when HTTPS filtering is disabled ------
 0.0.0.0 n152adserv.com
 0.0.0.0 rg.yottos.com
@@ -23148,7 +23148,7 @@ t.yesware.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 atlas1.krone.at
 0.0.0.0 spr.bild.de
-0.0.0.0 pixel.wp.pl$important
+0.0.0.0 pixel.wp.pl
 0.0.0.0 dot.wp.pl
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 track.sohu.com
@@ -23179,7 +23179,7 @@ t.yesware.com
 0.0.0.0 analytics-udg.netdna-ssl.com
 0.0.0.0 stats.otempo.com.br
 0.0.0.0 banstat.nadavi.net
-0.0.0.0 pixel.4players.de$important
+0.0.0.0 pixel.4players.de
 0.0.0.0 lexip.4players.de
 0.0.0.0 monitor-targeting-failures.sqrt-5041.de
 0.0.0.0 analytics.businessinsider.com
@@ -31648,7 +31648,7 @@ adbetnet.com
 0.0.0.0 banners.prikol.ru
 0.0.0.0 banshop.gruntovik.ru
 0.0.0.0 bet.championat.com
-0.0.0.0 bet.championat.com$important
+0.0.0.0 bet.championat.com
 0.0.0.0 tea.pornolomka.video
 0.0.0.0 bn.kino-go.co
 0.0.0.0 bn.take-profit.org
