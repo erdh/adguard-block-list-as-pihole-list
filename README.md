@@ -7,5 +7,7 @@ Please note, I only check if there is a new rule on AdGuard's filtering domain (
 
 The filter I am using is a default filter for [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) and for the public [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) servers.
 
+This project is now an archived project, might continiue developing again
+
 # Important Note:
 `PiHoleTestList.txt` contains a full list of domains from AdGuard's Database. Use it at your own risk
